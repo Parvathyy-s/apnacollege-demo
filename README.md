@@ -1,2 +1,3 @@
 # apnacollege-demo
-this is my first systematic git repo
+This is my first systematic git repo
+Author-Parvathy S
